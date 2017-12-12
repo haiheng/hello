@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://qdhw.leaderhero.com/new2/20171206/WeiXin_v6.5.9(os8.0)_171206164935_app.tongbu.com.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://www.xia999.com/largeImage.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://www.xia999.com/smallImage.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.xunlei.ithunder</string>
+				<key>bundle-version</key>
+				<string>5.29.1.2316</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>5.29.1.2316</string>
+				<key>title</key>
+				<string>wechat+(6.5.9)-更多好玩关注公众号：宅哥技术</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
