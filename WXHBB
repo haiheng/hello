@@ -11,21 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>qdhw.leaderhero.com/new2/20171212/WeiXin_v6.5.22(os8.0)_171212121507_app.tongbu.com.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://www.xia999.com/largeImage.png</string>
+					<string>http://qdhw.leaderhero.com/new2/20171212/WeiXin_v6.5.22(os8.0)_171212121507_app.tongbu.com.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>http://www.cysmdp.com/ccc/index_files/sj.png</string>
 				</dict>
@@ -33,15 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xunlei.ithunder</string>
+				<string>com.tencent.xin.ymsoft</string>
 				<key>bundle-version</key>
-				<string>5.29.1.2316</string>
+				<string>6.5.22</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>5.29.1.2316</string>
 				<key>title</key>
-				<string>wechat+(6.5.22)-更多好玩关注公众号：辰由数码</string>
+				<string>wechat+（。5.22）-更多好玩关注公众号：辰由数码</string>
 			</dict>
 		</dict>
 	</array>
